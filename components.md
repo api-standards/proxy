@@ -7,4 +7,6 @@ API Proxy can be built from several components. This document describes common A
 - caching
 - gateway (does all of this fall under the 'gateway'?)
 - load balancing
+- logging
 - rate limiting
+- transformation
