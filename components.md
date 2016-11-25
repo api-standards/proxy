@@ -1,12 +1,17 @@
 API Proxy can be built from several components. This document describes common API proxy components.
 
 # Outline
-- authentication
+
+## authentication
   - key based
   - oauth2
-- caching
-- gateway (does all of this fall under the 'gateway'?)
-- load balancing
-- logging
-- rate limiting
-- transformation
+  - JSON Web Tokens
+## caching
+
+## Load balancing
+
+## Logging
+
+## rate limiting
+
+## transformation
