@@ -2,10 +2,13 @@ API Proxy can be built from several components. This document describes common A
 
 # Outline
 
-## authentication
-  - key based
-  - oauth2
-  - JSON Web Tokens
+## authentication (identity provider)
+- key based
+- oauth2
+- JSON Web Tokens
+  
+## authorization
+- rule /role based
   
 ## Caching
 
